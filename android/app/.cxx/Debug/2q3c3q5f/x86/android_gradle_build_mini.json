@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/stevenmini/fvm/versions/stable/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/stevenmini/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/stevenmini/Desktop/funday_download_media_project/android/app/.cxx/Debug/2q3c3q5f/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/stevenmini/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/stevenmini/Desktop/funday_download_media_project/android/app/.cxx/Debug/2q3c3q5f/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+/Users/stevenmini/Desktop/funday_download_media_project/android/app/.cxx/RelWithDebInfo/1y9151q3/x86/CMakeFiles/edit_cache.dir
+/Users/stevenmini/Desktop/funday_download_media_project/android/app/.cxx/RelWithDebInfo/1y9151q3/x86/CMakeFiles/rebuild_cache.dir
